@@ -21,6 +21,9 @@ public class Main {
              hello.show();
 
     }
+    public void println(){
+        System.out.println("测试github");
+    }
 
     public static boolean isClassPresent(String name){
         try {
